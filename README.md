@@ -28,8 +28,12 @@ python -m orangepie.about
 > "期待着美好的事情即将发生"
 
 > Traceback (most recent call last):
+
+> File "/usr/lib/python/orangepie/about.py", line 19, in <module>
+  
+>    def stopAbout():
  
->  File "/usr/lib/python/orangepie/about.py", line 1, in stopAbout
+>  File "/usr/lib/python/orangepie/about.py", line 20, in stopAbout
   
 >    raise UserWarning("It's time to say goodbye")
     
@@ -40,6 +44,6 @@ python -m orangepie.about
 End.
 
 <!---
-yanyige0725/yanyige0725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OranPie/OranPie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
