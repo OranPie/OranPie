@@ -11,10 +11,8 @@ Weichat: orangepie0725
 Site: [ORANGEPIE'S BLOG](yyg0725.xyz)
 
 MyAvatar: [Pixiv Origin](https://www.pixiv.net/artworks/118573292)
-
 [Pixivel Mirror](https://pixivel.moe/illust/118573292)
-
-[Lanzou NetDisk](https://orangepie.lanzout.com/b00tan0nna)
+[Lanzou NetDisk Mirror](https://orangepie.lanzout.com/b00tan0nna)
 Password:opie
 
 python -m orangepie.about
