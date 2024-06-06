@@ -1,34 +1,40 @@
 ## OrangePie or yyg0725, Whatever you like to call.
 
-A cute orangepie.
+#### A cute orangepie.
 
-We'll ment in a free space!
+We'll meet in a free space in future!
 
 E-mail: orangepie@tutamail.com
 
 Weichat: orangepie0725
 
-Site: yyg0725.xyz [blog not ready for update]
+Site: [ORANGEPIE'S BLOG](yyg0725.xyz)
 
-> > python -m orangepie.about
+MyAvatar: [MyAvatar.png](https://www.pixiv.net/artworks/118573292)
+[Lanzou NetDisk](https://orangepie.lanzout.com/b00tan0nna)
+Password:opie
 
-I like virus, minecraft and Python.
+python -m orangepie.about
 
-Work on 🍎macOS 14.5
+> I like virus, minecraft and Python.
 
-I'm working in FakeDingtalk, SixMinecraftLauncher and My-Blog Project.
+> Work on 🍎macOS 14.5
 
-Thank you for reading about me, Thank you for meet you.
+> I'm working in FakeDingtalk, SixMinecraftLauncher and My-Blog Project.
 
-"期待着美好的事情即将发生"
+> Thank you for reading about me, Thank you for meet you.
 
-Traceback (most recent call last):
+> "期待着美好的事情即将发生"
 
-  File "/usr/lib/python/orangepie/about.py", line 1, in stopAbout
+> Traceback (most recent call last):
+ 
+>  File "/usr/lib/python/orangepie/about.py", line 1, in stopAbout
   
-    raise UserWarning("It's time to say goodbye")
+>    raise UserWarning("It's time to say goodbye")
     
-UserWarning: It's time to say goodbye
+> UserWarning: It's time to say goodbye
+
+
 
 End.
 
